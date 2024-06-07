@@ -1,0 +1,10 @@
+body {
+    background-image: url("/images/laravel-featured.jpg");
+    background-size: auto;
+}
+
+h1 {
+    font-size: 2rem;
+    color: black;
+    padding: 20px;
+}

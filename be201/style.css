@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+.container {
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.input-container {
+    margin: 10px 0;
+}
+
+.input-container label {
+    display: block;
+}
+
+.input-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
